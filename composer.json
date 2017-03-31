@@ -48,6 +48,6 @@
         }
     },
     "require": {
-        "phpunit/phpunit": "^6.0"
+        "phpunit/phpunit": "5.7"
     }
 }
